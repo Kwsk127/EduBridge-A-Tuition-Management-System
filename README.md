@@ -1,4 +1,4 @@
-#EduBridge: A Tuition Management System
+# EduBridge: A Tuition Management System
 
 ## Overview
 
