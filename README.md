@@ -2,14 +2,13 @@
 
 ## Overview
 
-The Tuition Management System named as **EduBridge** is a comprehensive application designed to manage tuition fee records for students. It allows administrators to manage student information, track tuition fees, and generate reports on fee payments. The system aims to simplify the management of tuition records, making it easier for educational institutions to monitor and maintain financial data.
+The Tuition Management System named as **EduBridge** is a comprehensive application designed to manage tuition by creating a platform for both tutors and guardians. It allows administrators to manage student and tutor information, track tuitions, create post for both parties. The system aims to simplify the communication between tutors and students by creating a bridge.
 
 ## Features
 
-- **Student Management**: Add, update, and delete student records with personal and academic information.
-- **Fee Tracking**: Track tuition fee payments and outstanding balances for each student.
-- **Reports**: Generate reports on paid and unpaid fees, payment history, and outstanding balances.
+- **Management**: Add, update, and delete student records with personal and academic information for both guardian and tutors.
 - **Search and Filter**: Easily search and filter students based on their names, payment status, or course.
+- **Create Posts**: Both parties can create posts and get attracted by the others.
 - **User-Friendly Interface**: Easy-to-use web interface for administrators to interact with the system.
 
 
